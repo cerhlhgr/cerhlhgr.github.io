@@ -1,1 +1,2 @@
-https://cerhlhgr.github.io/lab5/
+http://example.com
+[example.com](http://example.com)
