@@ -1,1 +1,1 @@
-![Alt href](https://cerhlhgr.github.io/lab5/)
+[example site]:https://cerhlhgr.github.io/lab5/
